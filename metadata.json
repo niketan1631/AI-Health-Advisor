@@ -1,0 +1,5 @@
+{
+  "name": "AI Health Advisor",
+  "description": "An AI-powered application that suggests potential medicines and provides doctor-like advice based on user-described health problems. This application is for informational purposes only and is not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
